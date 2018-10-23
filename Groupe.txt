@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Quinton Brian
-=======
+﻿Quinton Brian
 Yves ALLARY
 Thibault JOSSE
->>>>>>> ab03c6b26d24e5a85f7ac2820a683cceb400da03
+Debuigny Léo
